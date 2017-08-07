@@ -1,0 +1,30 @@
+{
+  "name": "vkcom",
+  "version": "0.1.0",
+  "description": "API for VK groups Bot",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LestaD/vkcom.git"
+  },
+  "keywords": [
+    "vk",
+    "bot",
+    "com",
+    "api",
+    "node",
+    "sdk",
+    "request",
+    "wall",
+    "message"
+  ],
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LestaD/vkcom/issues"
+  },
+  "homepage": "https://github.com/LestaD/vkcom#readme"
+}
